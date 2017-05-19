@@ -1,0 +1,17 @@
+{
+  "name": "taco-truck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@lefoulkrod/taco-maker": "^1.0.0-beta.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
